@@ -16,4 +16,4 @@ document.querySelector('#red').addEventListener('touchend', updateColor)
 document.querySelector('#blue').addEventListener('touchend', updateColor)
 document.querySelector('#green').addEventListener('touchend', updateColor)
 // call the handler 
-updateColor() 
+updateColor()
